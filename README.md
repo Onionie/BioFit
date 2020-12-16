@@ -2,7 +2,7 @@
 iOS Diet and Health app created by Manuel Gavino, Oniel Gutierrez, Paris Klein, Brian Medina, Joseph Premdas, Michael Ibekwe, and Christopher Dike for CSE 4550 Software Development
 
 
- # What I Have Learned
+ # What I Learned
  - Xcode
  - Swift
  - Firebase
