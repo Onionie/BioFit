@@ -6,6 +6,6 @@ iOS Diet and Health app created by Manuel Gavino, Oniel Gutierrez, Paris Klein, 
  - Xcode
  - Swift
  - Firebase
- - How to properly work and communitcate in a team envirnoment
- - How to develop an app for IOS
+ - How to properly work and communicate in a team environment
+ - How to develop an app for iOS
  - How to implement Firebase
