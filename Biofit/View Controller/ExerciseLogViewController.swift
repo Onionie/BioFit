@@ -76,9 +76,9 @@ class ExerciseLogViewController: UIViewController {
 //                fullentry = "Exercise: \(exername ?? ""), Length: \(exertime ?? ""), Calories Burned: \(exercal ?? "")"
 //
 //                self.entry1.text = fullentry
-                self.exerciseName.text = "Exercise Name: \(exername ?? "")"
-                self.exerciseDur.text = "Time Spent: \(exertime ?? "")"
-                self.calBurn.text = "Calories Burned \(exercal ?? "")"
+                self.exerciseName.text = "\(exername ?? "")"
+                self.exerciseDur.text = "\(exertime ?? "") Minutes"
+                self.calBurn.text = "\(exercal ?? "") Calories"
             }
         }
        
