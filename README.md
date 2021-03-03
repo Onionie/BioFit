@@ -12,6 +12,7 @@ iOS Diet and Health app created for our CSE 4550 Software Engineering Class. The
 
 # What I Learned
 - Xcode
+- CocoaPods
 - Swift Language
 - Firebase
   - How to implement Firebase Authentication
